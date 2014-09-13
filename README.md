@@ -1,7 +1,6 @@
 # デンキヤギ株式会社 就業規則
 デンキヤギ株式会社で運用中の就業規則です。
 
-## ライセンス
 こののコンテンツは、特に明示されている場合を除いて、次のライセンスに従います。
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
