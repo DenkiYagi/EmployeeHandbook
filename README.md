@@ -21,5 +21,3 @@ This work is published from:
       content="JP" about="http://www.denkiyagi.jp/">
   日本</span>.
 </p>
-
-ライセンスの決定した経緯については、Issue #8 をご覧ください。
